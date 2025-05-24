@@ -1,0 +1,11 @@
+======================================
+           INVENTORY REPORT           
+======================================
+Date: 2025-05-18
+--------------------------------------
+Total Products: 0
+Total Inventory Value: $1,000.00
+--------------------------------------
+Expired Products: 0
+Soon to Expire Products (7 days): 0
+Products Below Threshold (5 units): 0

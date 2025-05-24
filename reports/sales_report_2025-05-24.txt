@@ -1,0 +1,24 @@
+======================================
+            SALES REPORT             
+======================================
+Generated at: 2025-05-24T17:03:09.395625200
+Period: 2025-05-24 to 2025-05-24
+--------------------------------------
+Total Sales: 2529,56
+Total Transactions: 2
+Average Transaction Value: 1264,78
+--------------------------------------
+Sales by Cashier:
+  Hristo Trifonov (ID: 1): 804,56
+  Ivan Ivanov (ID: 2): 1725,00
+--------------------------------------
+Top Selling Products:
+  Chocolate (ID: 5): 20 units
+  Toothpaste (ID: 10): 3 units
+  Milk (ID: 1): 2 units
+  Jack Daniels Honey Syrup Chocolate (ID: 6): 1 units
+  Audeze LCD-2C (ID: 12): 1 units
+--------------------------------------
+Sales by Date:
+  2025-05-24: 2529,56
+======================================
